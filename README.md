@@ -31,6 +31,8 @@ At the beginning of my design there is small amount of intensity and drama. This
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+There a challenge at the beginning of my level design, where the player has to jump onto small platforms over pits of acid. This is meant to be a challenge to test the players skill, and provide a sense of relief once completing that section.
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
