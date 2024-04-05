@@ -26,6 +26,8 @@ The player begins on the left side within my level design, which enables them to
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+At the beginning of my design there is very little intensity and smalla mount of drama. This is so that the player can be introduced to basic obstacles that will make them learn and master the basic skills required for the upcoming sections.
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
