@@ -21,6 +21,8 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+The player begins on the left side within my level design, which enables them to move towards the right. While moving forwards through the first section of the level, the player is introduced with basic obstacles such as spikes on the floor. This obstacle teaches the player to that they have to jump over them. This is followed up with a small pit on the floor that IF the player falls in, is able to jump out of. This pit is just at the threshold where the player can jump out so they player can get a grasp of their limitations on jump height. These simple jumps and obstacles have cleverly been placed on the first section of my level design to promote an easy learning experience in the beginning. This facilitates good design practice as it enables the players to learn at an easy pace during the beginning.
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
