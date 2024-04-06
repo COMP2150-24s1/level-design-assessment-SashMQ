@@ -43,11 +43,14 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+![Place any alt text here!](DocImages/Section1LabeledImage.png)
 
-### 2.2. Checkpoints
 
-### 2.3. Chompers
+### 2.1. Spikes
+
+### 2.2. Acid
+
+### 2.3. Checkpoints
 
 ### 2.4. Health Pickups
 
@@ -57,7 +60,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.7. Passthrough Platforms
 
-### 2.8. Spikes
+### 2.8. Chompers
 
 ### 2.9. Spitters
 
