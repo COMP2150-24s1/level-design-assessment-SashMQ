@@ -52,6 +52,8 @@ You should restructure the headings below to match the order they appear in your
 I have introduced spikes at the beginning of Section 1 of my Level Design. This is because spikes are a basic obstacle that the player should get used to as they will be seing a lot of about throughout the rest of the level design.
 
 ### 2.2. Acid
+Use this storyboard for 2.2 and 2.3:
+![Place any alt text here!](DocImages/CheckpointAndAcidStoryboard.png)
 
 ### 2.3. Checkpoints
 
