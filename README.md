@@ -49,7 +49,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Spikes
 ![Place any alt text here!](DocImages/SpikeStoryBoard.png)
-I have introduced spikes at the beginning of Section 1 of my Level Design. This is because spikes are a basic obstacle that the player should get used to seeing throughout the rest of the levels.
+I have introduced spikes at the beginning of Section 1 of my Level Design. This is because spikes are a basic obstacle that the player should get used to as they will be seing a lot of about throughout the rest of the level design.
 
 ### 2.2. Acid
 
