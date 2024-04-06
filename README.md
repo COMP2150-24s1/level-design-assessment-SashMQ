@@ -43,6 +43,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
+### Section 1 Storyboard of my Level Design
 ![Place any alt text here!](DocImages/Section1LabeledImage.png)
 
 
