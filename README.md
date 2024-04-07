@@ -71,6 +71,7 @@ Health pickups have beein introduced in the middle and at the end of section one
 ![Place any alt text here!](DocImages/SpitterStoryBoard.png)
 
 ### 2.9. Weapon Pickup (Staff)
+![Place any alt text here!](DocImages/StaffStoryBoard.png)
 
 ### 2.10. Chompers
 
