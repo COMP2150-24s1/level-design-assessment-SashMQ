@@ -57,14 +57,16 @@ Use this storyboard for 2.2 and 2.3:
 ### 2.4. Moving Platforms
 ![Place any alt text here!](DocImages/MovingPlatformStoryBoard.png)
 
-### 2.5. Health Pickups
+### 2.5. Passthrough Platforms
+![Place any alt text here!](DocImages/PassThrougStoryBoard.png)
+
+### 2.6. Health Pickups
 ![Place any alt text here!](DocImages/HealthPickupStoryBoard.png)
 Health pickups have beein introduced in the middle and at the end of section one. This story board shows the health-pickup at the end of section one. It is placed after the player has completed a challenging part where they have to avoid spikes and jump carefully to progress through the level.
 
-### 2.6. Keys
+### 2.7. Keys
 ![Place any alt text here!](DocImages/KeyStoryBoard.png)
 
-### 2.7. Passthrough Platforms
 
 ### 2.8. Chompers
 
