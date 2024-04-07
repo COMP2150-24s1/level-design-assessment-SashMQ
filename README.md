@@ -70,11 +70,11 @@ Health pickups have beein introduced in the middle and at the end of section one
 ### 2.8. Spitters
 ![Place any alt text here!](DocImages/SpitterStoryBoard.png)
 
-### 2.9. Chompers
+### 2.9. Weapon Pickup (Staff)
 
-### 2.10. Weapon Pickup (Gun)
+### 2.10. Chompers
 
-### 2.11. Weapon Pickup (Staff)
+### 2.11. Weapon Pickup (Gun)
 
 Justificaiton of why I introduced these mechanics in this order:
 
