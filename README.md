@@ -45,38 +45,48 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Spikes
 ![Place any alt text here!](DocImages/SpikeStoryBoard.png)
-I have introduced spikes at the beginning of Section 1 of my Level Design. This is because spikes are a basic obstacle that the player should get used to as they will be seing a lot of about throughout the rest of the level design.
+The spikes were introduced in the beginning of section 1 in my Level Design. This is done because spikes are a basic obstacle that the player should get used to as they will be seeing them more commonly while progressing through the level.
 
 ### 2.2. Acid
 Use this storyboard for 2.2 and 2.3:
 ![Place any alt text here!](DocImages/CheckpointAndAcidStoryboard.png)
+The player encounters acid in section 1 of the Level Design. It is introduced early so that the player can learn how to maneuver around this obstacle as it is commonly used within the rest of my Level Design.  
 
 ### 2.3. Checkpoints
 (For storyboard refer to 2.2 Acid Storyboard which contains checkpoint as well.)
+The players 3rd encounter would be a checkpoint, showing them that if they die they wont be severely punished and sent back to the start. Instead the player will respawn at the checkpoint where I have seemed fitting to add them. These checkpoints have cleverly been placed so that players are provided with a sense of reliefe, and don't get overwhelmed by having to repeat a large amount of the level due to dying. But has also been placed in a way where there is not too many checkpoints to satisfy the players thirst for challenge.
 
 ### 2.4. Moving Platforms
 ![Place any alt text here!](DocImages/MovingPlatformStoryBoard.png)
+The following encounters would show the players two different platforms. First being the Moving Platform. The first moving platform was placed above a pit of acid, it was simple and easy to give the player an introduction to how these platforms would function in the rest of the level. 
 
 ### 2.5. Passthrough Platforms
 ![Place any alt text here!](DocImages/PassThrougStoryBoard.png)
+The second platform was the passthrough platform that was introduced early in the level. The passthrough platform was placed over a hole so the player was able to know that they were meant to go down in order to progress through the level.
 
 ### 2.6. Health Pickups
 ![Place any alt text here!](DocImages/HealthPickupStoryBoard.png)
-Health pickups have beein introduced in the middle and at the end of section one. This story board shows the health-pickup at the end of section one. It is placed after the player has completed a challenging part where they have to avoid spikes and jump carefully to progress through the level.
+Health pickups have been introduced in the middle and at the end of section one. This story board shows the health-pickup at the end of section one. It is placed after the player has completed a challenging part where they have to avoid spikes by carefully jumping past them in order to progress through the level. If the player was hit by one of these spikes, a health-pickup was placed at the end of the small part so they could restore their health and learn how health-pickups work.
 
 ### 2.7. Keys
 ![Place any alt text here!](DocImages/KeyStoryBoard.png)
+There are three keys within the level-design as given, I have placed them throughout the level, 1 key in each section, 3 sections. The first key was given to them past a challenging spiked filled hallway that would reward them for completing such a difficult challenge.
 
 ### 2.8. Spitters
 ![Place any alt text here!](DocImages/SpitterStoryBoard.png)
+Spitters were introduced to the player in Section 2. The player would have to go across a moving platform over acid while a spitter was shooting at them. This made the player learn how to dodge spitters while also being on the move.
 
 ### 2.9. Weapon Pickup (Staff)
 ![Place any alt text here!](DocImages/StaffStoryBoard.png)
+The wapon pickup staff was placed in a small cave, seperated from the direction of the level. This offered the player a chance to explore. Once the player got the Staff they would gain the ability to kill Chompers and Spitters. 
 
 ### 2.10. Chompers
 ![Place any alt text here!](DocImages/ChomperStoryBoard.png)
+Chompers were introduced after the player was able to get the staff. This enabled to player to learn how to chomper works, making the player leanr how to dodge them or use the staff to kill the chompers.
 
 ### 2.11. Weapon Pickup (Gun)
+![Place any alt text here!](DocImages/PickupGunStoryBoard.png)
+The gun was introduced in the third section of the level, this enabled to the player to use long range moves to kill enemies. The third section of the map is very open and this compliments the use of a gun.
 
 Justificaiton of why I introduced these mechanics in this order:
 
