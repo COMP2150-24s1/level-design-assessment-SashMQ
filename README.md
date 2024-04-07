@@ -67,10 +67,10 @@ Health pickups have beein introduced in the middle and at the end of section one
 ### 2.7. Keys
 ![Place any alt text here!](DocImages/KeyStoryBoard.png)
 
+### 2.8. Spitters
+![Place any alt text here!](DocImages/SpitterStoryBoard.png)
 
-### 2.8. Chompers
-
-### 2.9. Spitters
+### 2.9. Chompers
 
 ### 2.10. Weapon Pickup (Gun)
 
