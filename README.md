@@ -114,7 +114,7 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-Viewing over the level design I have created
+Viewing over the level design I have created, I believe that I have demonstrated an interative design process as throughout the sections I have introduced variety of mechanics, used combinations of these mechanics to create tension and drama filled scenarios. Which furthermore provides some challenge to the player to test their capabilities. Something I would change in my level design is how I introduced the spitters to the player, I believe that the way I introduced them may of been too challenging for the player as they would have to learn this new mechanic while trying to manuever out of the way from their projectiles on a moving platform over acid. 
 
 ## Generative AI Use Acknowledgement
 
