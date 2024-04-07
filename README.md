@@ -33,10 +33,12 @@ The start section 1 in my level-design consists introductions of simple mechanic
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-There a challenge at the beginning of my level design, where the player has to jump onto small platforms over pits of acid. This is meant to be a challenge to test the players skill, and provide a sense of relief once completing that section.
+The main challenges of my level design incorporated variety of available mechanics in order to challenge the player and test their skills in completing each section. At half-way towards the end of section one there is a platofrm moving over acid that has a ipllar of spikes above, forcing the player to act quick in crouching to avoid the obstacle. This is followed with a hallway of spikes to test the players skill of manuevering through tight spaces. In section two the introduction of spitters provided a challenge for the players to adapt to spitter projecticles and dodge them. This is followed by chompers that were introduced right after the player would acuqire a staff, challenging the players by testing their capability in killing chompers and spitters, whilst dodging their attacks. Section 3 of the level design created a challenge in finding the key as there was more open space along with a combination of every mechanic from the previous sections to create a more challenging and enjoyable experience when completing the level.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+Section 1 creates a forward-driven exploration with only one path to go this is done so that the player HAS to go through certain mechanics in order to learn the game. Section 2 has a small room / cave, which has the pickup-staff mechanic hidden in, it is covered by the pass-through platform to entice the player in adventuring into the small room. Section 3 has majority of its level-design based on exploration, as the section is more open-space and there are different routes you can go leading to dead-ends with items, the door, or the last key needed. While being riddled with variety of obstacles using key mechanics.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
