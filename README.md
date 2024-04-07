@@ -43,10 +43,6 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### Section 1 Storyboard of my Level Design
-![Place any alt text here!](DocImages/Section1LabeledImage.png)
-
-
 ### 2.1. Spikes
 ![Place any alt text here!](DocImages/SpikeStoryBoard.png)
 I have introduced spikes at the beginning of Section 1 of my Level Design. This is because spikes are a basic obstacle that the player should get used to as they will be seing a lot of about throughout the rest of the level design.
@@ -56,8 +52,10 @@ Use this storyboard for 2.2 and 2.3:
 ![Place any alt text here!](DocImages/CheckpointAndAcidStoryboard.png)
 
 ### 2.3. Checkpoints
+(For storyboard refer to 2.2 Acid Storyboard which contains checkpoint as well.)
 
 ### 2.4. Health Pickups
+![Place any alt text here!](DocImages/HealthPickupStoryBoard.png)
 
 ### 2.5. Keys
 
