@@ -54,13 +54,15 @@ Use this storyboard for 2.2 and 2.3:
 ### 2.3. Checkpoints
 (For storyboard refer to 2.2 Acid Storyboard which contains checkpoint as well.)
 
-### 2.4. Health Pickups
-![Place any alt text here!](DocImages/HealthPickupStoryBoard.png)
-Health pickups have beein introduced in the middle and at the end of section one. This story board shows the health-pickup at the end of section one. It is placed after the player has completed a challenging part where they have to avoid spikes and jump carefully to progress through the level.
+### 2.4. Moving Platforms
+![Place any alt text here!](DocImages/MovingPlatformStoryBoard.png)
 
 ### 2.5. Keys
+![Place any alt text here!](DocImages/KeyAndPlatformStoryBoard.png)
 
-### 2.6. Moving Platforms
+### 2.6. Health Pickups
+![Place any alt text here!](DocImages/HealthPickupStoryBoard.png)
+Health pickups have beein introduced in the middle and at the end of section one. This story board shows the health-pickup at the end of section one. It is placed after the player has completed a challenging part where they have to avoid spikes and jump carefully to progress through the level.
 
 ### 2.7. Passthrough Platforms
 
@@ -71,6 +73,9 @@ Health pickups have beein introduced in the middle and at the end of section one
 ### 2.10. Weapon Pickup (Gun)
 
 ### 2.11. Weapon Pickup (Staff)
+
+Justificaiton of why I introduced these mechanics in this order:
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
