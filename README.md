@@ -74,6 +74,7 @@ Health pickups have beein introduced in the middle and at the end of section one
 ![Place any alt text here!](DocImages/StaffStoryBoard.png)
 
 ### 2.10. Chompers
+![Place any alt text here!](DocImages/ChomperStoryBoard.png)
 
 ### 2.11. Weapon Pickup (Gun)
 
